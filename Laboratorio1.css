@@ -1,0 +1,26 @@
+#borde
+        {border: 5px solid black;
+        
+        padding: 0px;
+        border-bottom-left-radius: 200px;
+        border-bottom-right-radius: 200px;
+        border-top-right-radius: 200px;
+        border-top-left-radius: 200px;} 
+
+#color1{background-color: black}
+#color2{background-color:orange}
+#bordetabla
+        {border: 3px blue;
+        border-style:double;}
+#footer{
+    width:1424px;
+    height:105;
+    background-color:black;
+    
+    }
+#header{
+    width:1424px;
+    height:100;
+    background-color:black;
+    
+    }
