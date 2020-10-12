@@ -10,11 +10,11 @@
 #color1{background-color: black;}
 #color2{background-color:orange;}
 #bordetabla
-        {border: 3px blue;
+        {border: 3px black;
         border-style:double;}
 #footer{
     width:1424px;
-    height:109;
+    height:110;
     background-color:black;
     
     }
